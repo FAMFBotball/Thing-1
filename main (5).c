@@ -21,7 +21,7 @@ int main()
         motor(0,-50);
         motor(3,-50);
     }
-    printf ("bumpers touched!\n");
+   
     forwards(1200);
     //go to utility poles
     right(900);
